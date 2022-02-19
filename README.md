@@ -71,7 +71,7 @@ if __name__ == '__main__':
 <br/>
 ## MobileRobot Movement Video:
 
-(https://youtu.be/0HagiKfjcPA)
+![(robomaster.png)](https://youtu.be/0HagiKfjcPA)
 
 <br/>
 
